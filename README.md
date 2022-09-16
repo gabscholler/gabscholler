@@ -5,7 +5,7 @@
 I'm a German teenager living in Sweden. Interested in Computer Science, Modern History, and anything that's related to those fields. 
 In terms of programming, I’m currently interested in front-end web development, but I enjoy playing around with Python and Java too. Currently learning Java, and I'd be happy to collaborate on whatever project that doesn't exceed my capabilities. 
 
-## Currently Projects 🛠️
+## Current Projects 🛠️
 - **[IB Revision Website](http://revisionhub.tech/)**
 
 ## Contact 📞
