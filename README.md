@@ -21,4 +21,5 @@ In terms of programming, I’m currently interested in front-end web development
 
 
 ## Contact 📞
-You can always reach me by sending an email - gabscholler@gmail.com!
+<a href="mailto:gabscholler@gmail.com?subject=Mail from Our Github">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>  
+
