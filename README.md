@@ -8,5 +8,10 @@ In terms of programming, I’m currently interested in front-end web development
 ## Current Projects 🛠️
 - **[IB Revision Website](http://revisionhub.tech/)**
 
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabscholler&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabscholler&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Contact 📞
 You can always reach me by sending an email - gabscholler@gmail.com!
