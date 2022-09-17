@@ -6,7 +6,7 @@ I'm a German teenager living in Sweden. Interested in Computer Science, Modern H
 In terms of programming, I’m currently interested in front-end web development, but I enjoy playing around with Python too. I'm learning Java, and I'm happy to collaborate on any project that doesn't exceed my capabilities. 
 
 ## Current Projects 🛠️
-- **[IB Revision Website](http://revisionhub.tech/)**
+-   **[Revision Hub](https://github.com/gabscholler/revision-hub)** - IB revision website. 
 
 ## Stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabscholler&show_icons=true)
